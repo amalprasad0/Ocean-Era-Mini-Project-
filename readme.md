@@ -9,7 +9,7 @@
 <h5 align="center">Admin Login</h5>
 <h6> 🔯Steps to Configure This Project</h6>
 <p><a href="https://github.com/amalprasad0/Ocean-Era-Mini-Project-.git">✅Download</a> Or Clone the Project from my Github </p>
-<p><a href="https://www.apachefriends.org/download.html"✅Also Download</a> XAMPP Server for your Device and Install it In Right Way</p>
+<p><a href="https://www.apachefriends.org/download.html">✅Also Download</a> XAMPP Server for your Device and Install it In Right Way</p>
 <p>✅Move The Downloaded folder to C/D Drive➡️xampp➡️htdocs and Paste That folder in htdocs</p>
 <p>✅<a href="http://localhost/phpmyadmin/">Click Here</a> to open the admin Panel of XAMPP server💻</p>
 <p>✅Create a Database and the rename it as resort1 </p>
