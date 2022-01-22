@@ -7,3 +7,5 @@
 <h5 align="center">Landing Page (contd)</h5>
 <img src="https://github.com/amalprasad0/Ocean-Era-Mini-Project-/blob/main/2%20(3).png" alt="">
 <h5 align="center">Admin Login</h5>
+<h6> Steps to Configure This Project</h6>
+<p><a href="https://github.com/amalprasad0/Ocean-Era-Mini-Project-.git">Download</a> Or Clone the Project from my Github </p>
