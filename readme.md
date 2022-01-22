@@ -7,5 +7,25 @@
 <h5 align="center">Landing Page (contd)</h5>
 <img src="https://github.com/amalprasad0/Ocean-Era-Mini-Project-/blob/main/2%20(3).png" alt="">
 <h5 align="center">Admin Login</h5>
-<h6> Steps to Configure This Project</h6>
-<p><a href="https://github.com/amalprasad0/Ocean-Era-Mini-Project-.git">Download</a> Or Clone the Project from my Github </p>
+<h6> 🔯Steps to Configure This Project</h6>
+<p><a href="https://github.com/amalprasad0/Ocean-Era-Mini-Project-.git"✅Download</a> Or Clone the Project from my Github </p>
+<p><a href="https://www.apachefriends.org/download.html"✅Download</a> XAMPP Server for your Device and Install it In Right Way</p>
+<p>✅Move The Downloaded folder to C/D Drive➡️xampp➡️htdocs and Paste That folder in htdocs</p>
+<p>✅<a href="http://localhost/phpmyadmin/">Click Here</a> to open the admin Panel of XAMPP server💻</p>
+<p>✅Create a Database and the rename it as resort1 </p>
+<p>✅Import resort1.sql to the database by clicking on import button in admin panel </p>
+<p>✅after completion of import <a href="http://localhost/resort_management_system-master/"> click here</a> to view the Project</p>
+<p>✅For loading Project admin panel ,just type "login.php" after "localhost/resort_management_system-master/" and hit enter</p>
+<p>✅For admin registartion ,just type "registartion.php.php" after "localhost/resort_management_system-master/" and hit enter</p>
+
+
+🐾Note🐾:
+😊 Admin Username : admin@gmail.com
+😊 Admin Password : pass
+😊 You Can Register your own admin Account in the Project
+😊 You all Are invited to Contribute in this Project
+
+❌Warnings:❌
+❌Many Bugs Are In This So Beware Of Those Bugs
+❌Do not Report this Project
+ <h5 align="center">📑Project Report Will Uplaod Soon</h5>
