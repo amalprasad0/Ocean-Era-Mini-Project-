@@ -16,16 +16,16 @@
 <p>✅Import resort1.sql to the database by clicking on import button in admin panel </p>
 <p>✅after completion of import <a href="http://localhost/resort_management_system-master/"> click here</a> to view the Project</p>
 <p>✅For loading Project admin panel ,just type "login.php" after "localhost/resort_management_system-master/" and hit enter</p>
-<p>✅For admin registartion ,just type "registartion.php.php" after "localhost/resort_management_system-master/" and hit enter</p>
+<p>✅For admin registartion ,just type "registartion.php.php" after "localhost/resort_management_system-master/" and hit enter</p><br>
 
 
-🐾Note🐾:
-😊 Admin Username : admin@gmail.com
-😊 Admin Password : pass
-😊 You Can Register your own admin Account in the Project
-😊 You all Are invited to Contribute in this Project
+🐾Note🐾:<br>
+😊 Admin Username : admin@gmail.com <br>
+😊 Admin Password : pass <br>
+😊 You Can Register your own admin Account in the Project<br>
+😊 You all Are invited to Contribute in this Project<br>
 
-❌Warnings:❌
-❌Many Bugs Are In This So Beware Of Those Bugs
-❌Do not Report this Project
+❌Warnings:❌<br>
+❌Many Bugs Are In This So Beware Of Those Bugs<br>
+❌Do not Report this Project<br>
  <h5 align="center">📑Project Report Will Uplaod Soon</h5>
