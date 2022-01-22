@@ -5,3 +5,5 @@
 <h5 align="center">Landing Page </h5>
 <img src="https://github.com/amalprasad0/Ocean-Era-Mini-Project-/blob/main/2%20(4).png" alt="">
 <h5 align="center">Landing Page (contd)</h5>
+<img src="https://github.com/amalprasad0/Ocean-Era-Mini-Project-/blob/main/2%20(3).png" alt="">
+<h5 align="center">Admin Login</h5>
