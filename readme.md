@@ -26,7 +26,8 @@
 😊 You Can Register your own admin Account in the Project<br>
 😊 You all Are invited to Contribute in this Project<br>
 
-❌Warnings:❌<br>
-❌Many Bugs Are In This So Beware Of Those Bugs<br>
-❌Do not Report this Project<br>
+❌Warnings:<br>
+⭐Bugs -4️⃣/5️⃣ STARS
+
+
 
