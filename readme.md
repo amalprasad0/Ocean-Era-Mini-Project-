@@ -17,6 +17,7 @@
 <p>✅after completion of import <a href="http://localhost/resort_management_system-master/"> click here</a> to view the Project</p>
 <p>✅For loading Project admin panel ,just type "login.php" after "localhost/resort_management_system-master/" and hit enter</p>
 <p>✅For admin registartion ,just type "registartion.php.php" after "localhost/resort_management_system-master/" and hit enter</p><br>
+<h5 align="center">📑Project Report <a href="https://drive.google.com/file/d/186BxBWWgRn8gmfc5Z_AJB9O8sAextwmC/view?usp=drivesdk">Download</a></h5>
 
 
 🐾Note🐾:<br>
@@ -28,5 +29,4 @@
 ❌Warnings:❌<br>
 ❌Many Bugs Are In This So Beware Of Those Bugs<br>
 ❌Do not Report this Project<br>
- <h5 align="center">📑Project Report <a href="https://drive.google.com/file/d/186BxBWWgRn8gmfc5Z_AJB9O8sAextwmC/view?usp=drivesdk">Download</a></h5>
 
