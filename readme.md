@@ -24,10 +24,8 @@
 😊 Admin Username : admin@gmail.com <br>
 😊 Admin Password : pass <br>
 😊 You Can Register your own admin Account in the Project<br>
-😊 You all Are invited to Contribute in this Project<br>
+😊 
 
-❌Warnings:<br>
-⭐Bugs -4️⃣/5️⃣ STARS
 
 
 
